@@ -1,3 +1,2 @@
 # propedeutico_python
-This is my first exercises of the python tutorial by Hackademy Propedéutico DevSociety 2024.
-
+Estos son los primeros ejercicios realizados con Python como parte del programa Hackademy Propedéutico DevSociety 2024.
